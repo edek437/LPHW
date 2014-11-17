@@ -1,0 +1,16 @@
+# Designning and debugging hints
+
+1.For if-statement
+a)always use else to avoid uncntroled situations (you can kill function in this else)
+b)never nest if-statement more than 2 deep (use function or rethink)
+c)simple boolean tests (make variable for more complex one and name it properly)
+
+2.For loops
+a)in python use while loop only to loop forever
+b)for loop for any other kinds of looping
+
+3.Debugging
+a) russian debugging > using debugger
+b) chcecking if part of code is working as expected after writting it
+
+
